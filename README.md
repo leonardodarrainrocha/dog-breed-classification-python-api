@@ -1,0 +1,1 @@
+An API based on Python that uses a CNN model capable of identifying a dog's breed from a photo.
